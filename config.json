@@ -7,7 +7,7 @@
   "all": false,
   "group": "genre",
   "regionalize": false,
-  "excludeGroups": "Movies|Music Videos|Kids|En Español|Comedy|Drama|Reality|Competition Reality|Daytime + Game Shows|Entertainment|Classic TV|Anime|Westerns|Sci-Fi|Home + Food|Local News|April Ghouls"
+  "excludeGroups": "Movies|Music Videos|Kids|En Español|Comedy|Drama|Reality|Competition Reality|Daytime + Game Shows|Entertainment|Classic TV|Anime|Westerns|Sci-Fi|Home + Food|Local News|April Ghouls",
   "excludeChannels": false,
   "uniqueClientid": false,
   "randomClientid": false,
