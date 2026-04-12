@@ -2,12 +2,12 @@
   "outdir": "./output",
   "clientID": "d7461d0e-d453-48d5-b6f5-99c755adba6c",
   "mapping": {
-    "us": "45.50.96.71",
+    "us": "45.50.96.71"
   },
   "all": false,
   "group": "genre",
   "regionalize": false,
-  "excludeGroups": false,
+  "excludeGroups": "Movies|Music|Kids|Latino|Shopping|Español|Novela|Gaming|Fitness|Poker|Travel|Food|Home",
   "excludeChannels": false,
   "uniqueClientid": false,
   "randomClientid": false,
